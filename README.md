@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/arshad-ep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arshad-ep" height="30" width="40" /></a>
 <a href="https://instagram.com/arsxxhh._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arxxhh._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mr_rudster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr_rudster" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/mr_rudster](https://www.youtube.com/@MrRUDSTER)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr_rudster" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/4UqZVUp3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4UqZVUp3" height="30" width="40" /></a>
 </p>
 
