@@ -75,7 +75,8 @@
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arshadep" /></a></p>
 <br><br>
 
-    <br clear="both">
-    
-    <img src="https://raw.githubusercontent.com/developer-shamil/developer-shamil/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/developer-shamil/developer-shamil/output/snake.svg" alt="Snake animation" />
+
   
