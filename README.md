@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shamil KP</h1>
 <h3 align="center">A passionate softwear developer.</h3>
 
-<img src="https://imagetolink.com/ib/cNlwlTsXub.jpg" align="left" height="150" alt="Logo"/>
+<a href="#"><img src="https://imagetolink.com/ib/cNlwlTsXub.jpg" align="left" height="150" alt="Logo"/></a>
 
 - 🌱 I’m a softwear Developer **Mobile Application, Web Application, Desktop Application**
-<br>
-<br>
 - 📫 How to reach me
 
 <div>
